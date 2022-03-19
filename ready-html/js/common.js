@@ -14,3 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	document.querySelector('video').playbackRate = 2
 
 })
+
+function addNumber () {
+	console.log(1 + 2)
+}
